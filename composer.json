@@ -1,12 +1,12 @@
 {
-  "name": "subfission/cas",
-  "description": "Adds CAS to laravel 5.x",
+  "name": "regnilk/cas",
+  "description": "Adds CAS to laravel 6.x",
   "keywords": [
     "CAS",
     "phpCAS",
     "SSO",
     "laravel",
-    "laravel 5"
+    "laravel 6"
   ],
   "license": "MIT",
   "authors": [
